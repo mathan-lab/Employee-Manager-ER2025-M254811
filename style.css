@@ -1,0 +1,25 @@
+body{
+    background-image: url(ba3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    color:crimson;
+}
+label{
+    color: rgb(103, 29, 168);
+}
+#output{
+    width: auto;
+    height:auto;
+    border: 3px;
+    background-color:rgb(241, 171, 171);
+}
+#apiprint{
+    width: auto;
+    height:auto;
+    border: 3px;
+    background-color:hsl(103, 94%, 52%);
+}
